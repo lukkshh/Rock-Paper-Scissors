@@ -7,7 +7,7 @@
 >
 > Visit My Website https://lukkshh.ga/
 > 
-> ![Licence](https://img.shields.io/github/license/lukkshh/Rock-Paper-Scissors)
+> ![Licence](https://badgen.net/github/license/lukkshh/Rock-Paper-Scissors)
 
 ## Installation And Usage
 
