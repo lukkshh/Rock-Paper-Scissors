@@ -8,7 +8,7 @@
 > Visit My Website https://lukkshh.ga/
 > 
 > ![Licence](https://badgen.net/github/license/lukkshh/Rock-Paper-Scissors)
-> ![Version](https://badgen.net/badge/Version/0.0.1v/blue)
+> ![Version](https://badgen.net/badge/Version/0.0.1/blue)
 
 ## Installation And Usage
 
