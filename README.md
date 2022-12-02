@@ -3,7 +3,7 @@
 
 > Rock Paper Scissors Game Using Tkinter
 > 
-> Don't Forget Assets Folder Is Importannt ! 
+> Don't Forget Assets Folder Is Important ! 
 >
 > Visit My Website https://lukkshh.ga/
 > 
