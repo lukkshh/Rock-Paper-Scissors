@@ -9,7 +9,7 @@
 > 
 > ![Licence](https://badgen.net/github/license/lukkshh/Rock-Paper-Scissors)
 > ![Version](https://badgen.net/badge/Version/0.0.1/blue)
-
+> ![Last Update](https://badgen.net/badge/Last%20Update/Dec%202/green)
 ## Installation And Usage
 
 ```sh
