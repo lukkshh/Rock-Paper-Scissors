@@ -19,7 +19,7 @@ git clone https://github.com/lukkshh/Rock-Paper-Scissors.git
 cd  Rock-Paper-Scissors
 ```
 ```sh
-pip install requirements.txt 
+pip install -r requirements.txt 
 ```
 ```sh
 python game.py 
